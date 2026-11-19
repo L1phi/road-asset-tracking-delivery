@@ -2,7 +2,7 @@
 
 状态：**交付候选，尚未完成企业目标GPU端到端验收**。不要将文件完整性验证当作准确率或生产验收。
 
-本分支只交付737B检测、MoCo及冻结全局图V2链路。研究档案位于私有仓库`main`分支，不属于企业部署文件。模型通过Git LFS提供；访问需要仓库授权。
+本仓库只交付737B检测、MoCo及冻结全局图V2链路。研究档案保存在另一个私有仓库`L1phi/road-asset-tracking`，不属于本仓库或企业部署文件。模型通过Git LFS提供；访问需要仓库授权。
 
 ## 包含与不包含
 
@@ -22,8 +22,8 @@
 
 ```bash
 git lfs install
-git clone --branch enterprise-delivery --single-branch https://github.com/L1phi/road-asset-tracking.git
-cd road-asset-tracking
+git clone https://github.com/L1phi/road-asset-tracking-delivery.git
+cd road-asset-tracking-delivery
 git lfs pull
 ```
 
