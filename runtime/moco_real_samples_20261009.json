@@ -1,0 +1,326 @@
+{
+  "samples_sha256": "f65b611b7b9f864840681048fb41850c342e4ff48f9e0c68c9d3fc750ba6a6a1",
+  "samples": [
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 0,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 0,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 0,
+      "input_index": 2,
+      "class_id": 3,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 0,
+      "input_index": 2,
+      "class_id": 3,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 1,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 1,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 2,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 2,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 3,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 3,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 3,
+      "input_index": 3,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 3,
+      "input_index": 3,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 4,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 4,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 5,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 5,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 6,
+      "input_index": 3,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 6,
+      "input_index": 3,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 8,
+      "input_index": 2,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 8,
+      "input_index": 2,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 11,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 11,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 11,
+      "input_index": 4,
+      "class_id": 1,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 11,
+      "input_index": 4,
+      "class_id": 1,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 12,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 12,
+      "input_index": 1,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 12,
+      "input_index": 4,
+      "class_id": 13,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 12,
+      "input_index": 4,
+      "class_id": 13,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 13,
+      "input_index": 2,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 13,
+      "input_index": 2,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 13,
+      "input_index": 4,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "video": "2026_01_16_11_34_00.avi",
+      "frame": 13,
+      "input_index": 4,
+      "class_id": 0,
+      "height_region": [
+        0.0,
+        0.5
+      ]
+    }
+  ],
+  "scope": "readiness samples only, not workload timing"
+}

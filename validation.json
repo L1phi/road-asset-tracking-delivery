@@ -1,0 +1,16 @@
+{
+  "status": "DELIVERY_CANDIDATE_NOT_GPU_ACCEPTED",
+  "requirements_installation": "NOT_RUN",
+  "long_video_pressure_test": "NOT_RUN",
+  "deployment_python": "3.11",
+  "GPU_end_to_end": "NOT_RUN",
+  "static_test_environment": "E:\\Development\\Envs\\roadcheck",
+  "YOLO_MoCo_identity_verified": true,
+  "python_parse_files": 15,
+  "static_test_python": "3.12.15",
+  "original_research_branch": "main",
+  "standard_library_tests_passed": 3,
+  "new_wrapper_output_parity": "NOT_RUN",
+  "full_asset_inventory_accuracy": "NOT_ACCEPTED",
+  "frozen_core_copy_hash_verified": true
+}

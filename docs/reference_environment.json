@@ -1,0 +1,17 @@
+{
+  "torch_cuda": "12.4",
+  "packages": {
+    "numpy": "2.4.6",
+    "torch": "2.6.0+cu124",
+    "torchvision": "0.21.0+cu124",
+    "ultralytics": "8.4.146",
+    "cv2": "5.0.0",
+    "scipy.optimize": "import OK",
+    "PIL": "12.3.0",
+    "pynvml": "import OK",
+    "psutil": "7.2.2"
+  },
+  "python": "3.11.16 (main, Sep  2 2026, 23:39:52) [GCC 15.3.0]",
+  "gpu": "RTX 4090 D",
+  "reference_only": true
+}

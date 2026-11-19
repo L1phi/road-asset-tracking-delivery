@@ -1,0 +1,49 @@
+{
+  "algorithm": "737B + all_asset_NMS + observation-first demand MoCo V2 + offline path-cover global graph",
+  "YOLO_confidence": 0.359,
+  "association_gap_frames": 5,
+  "FP32": true,
+  "TF32": false,
+  "excluded_classes": [
+    7,
+    9
+  ],
+  "geometry_only_class": 10,
+  "ZH_confidence": 0.75,
+  "ZH_consecutive_frames": 3,
+  "H20_recommended": {
+    "yolo_batch": 32,
+    "moco_batch": 512,
+    "detect_workers": 4,
+    "track_workers": 4,
+    "mode": "staged",
+    "cache_release": false,
+    "median_seconds": 56.447020683,
+    "source_seconds": 276,
+    "repeat_quality": "3/3 passed",
+    "sampled_peak_GiB": 51.65
+  },
+  "4090_D_fast_candidate": {
+    "yolo_batch": 4,
+    "moco_batch": 32,
+    "detect_workers": 4,
+    "track_workers": 2,
+    "mode": "staged",
+    "cache_release": true,
+    "descriptive_median_seconds": 67.800271,
+    "repeat_sampling_quality": "1/3 passed; all trajectories consistent",
+    "sampled_peak_GiB": 6.2603759765625
+  },
+  "4090_D_validated_baseline": {
+    "yolo_batch": 1,
+    "moco_batch": 32,
+    "detect_workers": 1,
+    "track_workers": 1,
+    "mode": "staged",
+    "cache_release": true,
+    "median_seconds": 149.400304741,
+    "repeat_quality": "3/3 passed"
+  },
+  "no_global_optimality_claim": true,
+  "no_full_asset_GT_accuracy_claim": true
+}

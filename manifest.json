@@ -1,0 +1,147 @@
+{
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "1c5215e1cc4d44fa43fe43726c31c2e358145e7d36fd02d34351254e30d9140d",
+      "bytes": 125
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "c11b3d51efca3425022c49871122a81b6c246fd88382beba3586dbfbdcf5ef2f",
+      "bytes": 40
+    },
+    {
+      "path": "README.md",
+      "sha256": "94b16274c26d66b424ddb89f488953cbec8ecd002e9a9a419435dc2ac946e5a3",
+      "bytes": 4107
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "9189b96080bcb42023cf1f90835bb74d70c881ec28a4beb02cb60cad02a3df2f",
+      "bytes": 125
+    },
+    {
+      "path": "run.py",
+      "sha256": "186980d05b06df80244c9cee0c08d61da0a25e4f6c763404d3bf4b9c7f15e927",
+      "bytes": 5848
+    },
+    {
+      "path": "test_delivery.py",
+      "sha256": "8dc73a91251ee9fdf53ca3c5dc29b4b54f26ce5c14b3f967c9786ba347397aef",
+      "bytes": 1477
+    },
+    {
+      "path": "validation.json",
+      "sha256": "17e7213a398f2afb88236b44db69061c963f30988ee8cd77d13506258f0af7d9",
+      "bytes": 591
+    },
+    {
+      "path": "config/historical_profiles.json",
+      "sha256": "c28f88ef13dfee9d3ce277fc54beb50393827dba970aa204ab9d95f0c7bceedf",
+      "bytes": 1345
+    },
+    {
+      "path": "docs/验收与边界.md",
+      "sha256": "89616b65af35315341677747669e785a57a0a4fca500dc7269a6ecb51a53a933",
+      "bytes": 1928
+    },
+    {
+      "path": "docs/reference_environment.json",
+      "sha256": "b1b6018114ea2831711446fbac02e02e7daab82ddd5a9a83fe6831d16a12b02c",
+      "bytes": 418
+    },
+    {
+      "path": "docs/test121_metrics.json",
+      "sha256": "7368e3b05eb2c306ebf044e01c310aa36fa2d2fe826b2b583791ea8dc38463d3",
+      "bytes": 3801
+    },
+    {
+      "path": "models/last.pt",
+      "sha256": "0ef1e618fba78693da8a8f72879483cd437680213e3d29aef3c2e2056fbdf64e",
+      "bytes": 53045406
+    },
+    {
+      "path": "models/moco-v3-r50-1000ep.pth.tar",
+      "sha256": "5baee69ef3c0b6f153eac41543be48dbd2ca6ff8f6327bb44fc0aa61f8fb4eee",
+      "bytes": 272786643
+    },
+    {
+      "path": "runtime/all_asset_nms_20261009.py",
+      "sha256": "9623cba99791a195c41aef643e79ea5c2130c3cdebd6c5096e91652f6eb129df",
+      "bytes": 5345
+    },
+    {
+      "path": "runtime/candidate_moco_policy_20261009.py",
+      "sha256": "792f3d68b646a2c37d1c808f91c38728336841c37f6cd07572bcafa6920db990",
+      "bytes": 5291
+    },
+    {
+      "path": "runtime/check_moco_h20_20261009.py",
+      "sha256": "28d9ba7b647690f7baac41588265795ef16fb791bcf01233483e0bd1f5a090ca",
+      "bytes": 8253
+    },
+    {
+      "path": "runtime/class_policy_737B_20261009.py",
+      "sha256": "f41dae3c66d999af37d599db9fce1e57b203bf4bc14c3765101f5a2be1d718fc",
+      "bytes": 2509
+    },
+    {
+      "path": "runtime/crop_helper.py",
+      "sha256": "d33fe27f7cc65bf6e511e2f3ce3acb0b52d12d484962508473a656accf07804f",
+      "bytes": 894
+    },
+    {
+      "path": "runtime/demand_candidate_v2_20261009.py",
+      "sha256": "6eb43356079b361c123e7f429996b11de2457234a922c04bca5f6959af6b9780",
+      "bytes": 1367
+    },
+    {
+      "path": "runtime/demand_moco_20261009.py",
+      "sha256": "1d92cbe5ed4cbe9bf0ea28e63d162838e1c91bb520590a0dfdabdf46f3517599",
+      "bytes": 779
+    },
+    {
+      "path": "runtime/display_map.py",
+      "sha256": "0466e947caa228614568d4e97c8191694a2a8aa2ca7ac6b36d3e0269061560bb",
+      "bytes": 449
+    },
+    {
+      "path": "runtime/global_asset_graph_20261008.py",
+      "sha256": "133b0145102656035672bccb66294327653e1235df06b24eac941ebb85ad6564",
+      "bytes": 5667
+    },
+    {
+      "path": "runtime/h20_full_chain_20261010.py",
+      "sha256": "cd785206a52967256e714620a7a0ba8cc1143ceca479a7a12d5d87a5593a4165",
+      "bytes": 19555
+    },
+    {
+      "path": "runtime/moco_real_samples_20261009.json",
+      "sha256": "392c0f1250674490044e0cd6ba3fda0ffee40d93bf1ab073cdc2a2be3ba2ac5b",
+      "bytes": 6138
+    },
+    {
+      "path": "runtime/moco_real_samples_20261009.npz",
+      "sha256": "f65b611b7b9f864840681048fb41850c342e4ff48f9e0c68c9d3fc750ba6a6a1",
+      "bytes": 1837477
+    },
+    {
+      "path": "runtime/observation_parent_moco_20261009.py",
+      "sha256": "18cb5f941917b70e85613951ded3c26dfe588bfe9b80e39f7db39dc129c3fc86",
+      "bytes": 10309
+    },
+    {
+      "path": "runtime/strict_temporal_parent_20261008.py",
+      "sha256": "4e4078ebfdfa789c6d8d0096d53747bda42004fd7851263fc74867409773c438",
+      "bytes": 839
+    },
+    {
+      "path": "runtime/strict_timing_20261010.py",
+      "sha256": "4702b123b31e21648aa63be456e45baa7c256c86d0b299d6bf0a20020bc73041",
+      "bytes": 9713
+    }
+  ],
+  "GPU_acceptance": "pending",
+  "research_backup_branch": "main",
+  "algorithm_modified": false
+}
