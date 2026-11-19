@@ -1,5 +1,5 @@
 {
-  "status": "DELIVERY_CANDIDATE_NOT_GPU_ACCEPTED",
+  "status": "STATIC_VALIDATION_PASSED_GPU_VALIDATION_PENDING",
   "requirements_installation": "NOT_RUN",
   "long_video_pressure_test": "NOT_RUN",
   "deployment_python": "3.11",
