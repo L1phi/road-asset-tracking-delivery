@@ -1,0 +1,11 @@
+{
+  "train_images": 737,
+  "test_images": 121,
+  "train_boxes": 3447,
+  "test_boxes": 588,
+  "all_original_image_hashes_verified": true,
+  "train_test_exact_hash_overlap": 0,
+  "near_duplicate_overlap_not_checked": true,
+  "labels_from_reviewed_final_boxes": true,
+  "training_videoquality_images": "generate_from_recipe"
+}

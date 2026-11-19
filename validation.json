@@ -6,11 +6,16 @@
   "GPU_end_to_end": "NOT_RUN",
   "static_test_environment": "E:\\Development\\Envs\\roadcheck",
   "YOLO_MoCo_identity_verified": true,
-  "python_parse_files": 15,
+  "python_parse_files": 20,
   "static_test_python": "3.12.15",
   "original_research_branch": "main",
   "standard_library_tests_passed": 3,
   "new_wrapper_output_parity": "NOT_RUN",
   "full_asset_inventory_accuracy": "NOT_ACCEPTED",
-  "frozen_core_copy_hash_verified": true
+  "frozen_core_copy_hash_verified": true,
+  "dataset_original_hash_identity": "858/858 verified against frozen manifests",
+  "dataset_GT_check": "737 train / 3447 boxes; 121 test / 588 boxes; exact hash overlap 0",
+  "training_videoquality": "737 recipe-reconstructed images; hashes verified; not historical byte identity",
+  "pretrained_COCO_base_verified": true,
+  "training_scripts_runtime_check": "help and syntax only; no training/GPU evaluation performed"
 }
