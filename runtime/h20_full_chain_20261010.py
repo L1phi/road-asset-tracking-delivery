@@ -1,7 +1,4 @@
-"""Fresh FP32 detection -> demand GPU MoCo -> frozen V2 final tracks; no rendering.
-
-Initial serial baseline only. Does not claim pipeline or cross-video batching.
-"""
+"""Video decoding, detection, motion compensation and offline tracking."""
 import argparse,json,time,hashlib,sys,datetime
 from pathlib import Path
 

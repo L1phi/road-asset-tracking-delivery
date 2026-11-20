@@ -1,7 +1,4 @@
-"""Experimental geometry-first shortlist, then real deep features on demand.
-
-No fake vectors. Rule-only links explicit. Thresholds fixed across videos.
-"""
+"""Geometry-based association candidates and MoCo feature requests."""
 from collections import defaultdict
 import numpy as np
 from all_asset_nms_20261009 import geometry as overlap,POLICY

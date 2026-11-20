@@ -1,8 +1,4 @@
-"""Same-frame class-aware suppression; no GT, identities or temporal evidence.
-
-Containment is not physical identity proof. Every suppression retains an actual
-input detection, with chain-resolved audit. Continuous assets avoid broad merging.
-"""
+"""Class-aware overlap and containment suppression."""
 import numpy as np
 CONTINUOUS={3,4,7,9,15}
 POLICY={'discrete_iou':.5,'continuous_iou':.85,'continuous_axis_overlap':.90,

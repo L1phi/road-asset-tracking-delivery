@@ -1,4 +1,4 @@
-"""Report native AP separately from the frozen confidence=.359 IoU=.5 score."""
+"""Evaluate native AP and fixed-threshold precision, recall and F1."""
 import argparse
 import json
 from pathlib import Path

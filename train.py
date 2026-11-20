@@ -1,4 +1,4 @@
-"""Train from the pinned general pretrained model, never the delivered road checkpoint."""
+"""Train YOLO26l on the reviewed road asset dataset."""
 import argparse
 import json
 from pathlib import Path

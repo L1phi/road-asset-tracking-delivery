@@ -1,4 +1,4 @@
-"""Difficult associations request real MoCo; never cap them at three edges."""
+"""Select association candidates and request appearance features."""
 from collections import defaultdict
 from candidate_moco_policy_20261009 import shortlist
 

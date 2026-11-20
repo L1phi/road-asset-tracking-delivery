@@ -1,4 +1,4 @@
-"""Class-explicit feature demand: no guessed/dummy neural vectors."""
+"""Prepare per-class observations and feature requests."""
 from all_asset_nms_20261009 import suppress_frame
 EXCLUDED={7,9}
 GEOMETRY_ONLY={10}

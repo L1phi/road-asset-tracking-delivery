@@ -1,8 +1,4 @@
-"""Observation-first whole/part demand. Never use initial tracks for references.
-
-Geometry chooses the region; actual deep evidence verifies it. No whole evidence
-means no merge. Track IDs are read only AFTER observation relations are verified.
-"""
+"""Verify whole-sign and sub-sign relationships using appearance features."""
 from collections import defaultdict
 import numpy as np
 from strict_temporal_parent_20261008 import geometry, warp_between

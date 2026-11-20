@@ -1,4 +1,4 @@
-"""Portable orchestration only; frozen detection/association code is unchanged."""
+"""Run video detection and offline road asset tracking."""
 import argparse
 import hashlib
 import json

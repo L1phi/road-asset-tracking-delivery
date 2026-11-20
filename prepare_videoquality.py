@@ -1,4 +1,4 @@
-"""Reconstruct training degradation from the recorded recipe; never touch test images."""
+"""Generate video-quality training images using the recorded recipe."""
 import argparse
 import json
 import shutil
